@@ -1,6 +1,8 @@
 <div align="center">
 
-# ⚔️ Knight Jumpers
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&color=ff0000&width=500&height=150&lines=Knight+Jumpers" alt="Typing SVG" align="middle" />
+</p>
 
 **A retro 2D side-scrolling obstacle platformer built with Python and Pygame.**
 
